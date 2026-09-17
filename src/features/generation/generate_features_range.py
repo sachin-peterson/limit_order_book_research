@@ -1,7 +1,7 @@
 import argparse
 
 from data.acquisition.sessions import get_trading_sessions
-from src.generate_features_day import generate_features_day
+from src.features.generation.generate_features_day import generate_features_day
 
 
 def generate_features_range(
