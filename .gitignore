@@ -2,3 +2,7 @@
 .venv/
 data/raw/
 data/features/
+
+.DS_Store
+__pycache__/
+*.pyc
